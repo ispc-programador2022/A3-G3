@@ -1,9 +1,10 @@
 ![ISPC](https://drive.google.com/uc?export=view&id=1wkWgkaQARcTXtcKBfBkuiV8VYe34-RT-)
 
-# TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
-## Instituto Superior Politécnico Córdoba
-GRUPO 3 AULA 3 COHORTE 2022
+# TSCDIA - 2022
+## ISPC
+UPO 3 AULA 3 - 1er. Año*
 
+ 
 ### Alumnos
 - Denisse, Cerda 
 - Mirna Elvira, Canio
