@@ -2,7 +2,7 @@
 
 # TSCDIA - 2022
 ## ISPC
-UPO 3 AULA 3 - 1er. Año*
+*GUPO 3 AULA 3 - 1er. Año*
 
  
 ### Alumnos
