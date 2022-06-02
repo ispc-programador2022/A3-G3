@@ -1,5 +1,5 @@
 ![ISPC](https://drive.google.com/uc?export=view&id=1wkWgkaQARcTXtcKBfBkuiV8VYe34-RT-)
-![ima](https://drive.google.com/uc?export=view&id=1Ek5bJaE1zckqWPgbzbxr1Y5K8r7yfwAn)
+
 
 # 	:desktop_computer: TSCDIA - 2022 
 ## ISPC
