@@ -2,10 +2,11 @@
 
 # TSCDIA - 2022
 ## ISPC
-*GUPO 3 AULA 3 - 1er. Año*
+*Bienvenidos al GUPO 3 AULA 3 - 1er. Año*
 
  
-### Alumnos
+ 
+### Colaboradores
 - Denisse, Cerda 
 - Mirna Elvira, Canio
 - Dardo Dario, Callado
