@@ -17,7 +17,7 @@
 - Nicolás,	Bustamante
 - Lucas,	Caminos :heavy_check_mark:
 - Luis,	Cadiz
-- Joaquin,	Bruno
+- Joaquin,	Bruno :heavy_check_mark:
 - Camila, 	Fernandez :heavy_check_mark:
 - Diego Maximiliano,	Carrasco
 - Maximiliano, Castello
