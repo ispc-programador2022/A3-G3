@@ -18,7 +18,7 @@
 - Lucas,	Caminos :heavy_check_mark:
 - Luis,	Cadiz
 - Joaquin,	Bruno
-- Camila, 	Fernandez
+- Camila, 	Fernandez :heavy_check_mark:
 - Diego Maximiliano,	Carrasco
 - Maximiliano, Castello
 - Mateo,	Busto
