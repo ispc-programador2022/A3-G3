@@ -9,7 +9,7 @@
  
 ### Colaboradores 
 - Denisse, Cerda 
-- Mirna Elvira, Canio
+- Mirna Elvira, Canio :heavy_check_mark:
 - Dardo Dario, Callado
 - Eugenio Tomás, ,Cabrera :heavy_check_mark:
 - Camilo,	Sanchez :heavy_check_mark:
