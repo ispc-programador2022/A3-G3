@@ -21,7 +21,7 @@
 - Camila, 	Fernandez :heavy_check_mark:
 - Diego Maximiliano,	Carrasco
 - Maximiliano, Castello :heavy_check_mark:
-- Mateo,	Busto
+- Mateo,	Busto  :heavy_check_mark:
 - Nadia Emilse, Cerruti :heavy_check_mark:
   
 
