@@ -19,7 +19,7 @@
 - Luis,	Cadiz
 - Joaquin,	Bruno :heavy_check_mark:
 - Camila, 	Fernandez :heavy_check_mark:
-- Diego Maximiliano,	Carrasco
+- Diego Maximiliano,	Carrasco :heavy_check_mark:
 - Maximiliano, Castello :heavy_check_mark:
 - Mateo,	Busto  :heavy_check_mark:
 - Nadia Emilse, Cerruti :heavy_check_mark:
