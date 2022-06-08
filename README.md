@@ -20,7 +20,7 @@
 - Joaquin,	Bruno :heavy_check_mark:
 - Camila, 	Fernandez :heavy_check_mark:
 - Diego Maximiliano,	Carrasco
-- Maximiliano, Castello
+- Maximiliano, Castello :heavy_check_mark:
 - Mateo,	Busto
 - Nadia Emilse, Cerruti :heavy_check_mark:
   
