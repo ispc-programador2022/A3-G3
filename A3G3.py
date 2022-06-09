@@ -1,5 +1,5 @@
 #A3G3
 
-import Bienvenida as bien
+from Bienvenida import bienvenida
 
-bien.bienvenida()
+bienvenida()
