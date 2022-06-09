@@ -6,7 +6,6 @@ from suma import suma
 
 
 bienvenida()
-nros_enteros = ing2i()
-print("Los números ingresados son:", nros_enteros) #imprime la lista en la que se almacenaron los números
+print("Los números ingresados son:", ing2i()) #imprime la lista en la que se almacenaron los números
 print("Suma= ", suma())
 
