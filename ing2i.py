@@ -1,8 +1,8 @@
-# Crear la función ing2i que permita ingresar dos valores enteros
+
+#función ing2i
 
 def ing2i():
-
- num1 = input("Ingresa un numero entero\n")
- num2 = input("Ingresa otro numero entero\n")
-
-ing2i()
+    a=int(input("Ingrese el 1er valor entero: "))
+    b=int(input("Ingrese el 2do valor entero: "))
+    return [a,b]   #devuelve el resultado en una lista
+    
