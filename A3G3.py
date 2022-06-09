@@ -5,6 +5,7 @@ from Funciones.ing2i import ing2i
 from Funciones.suma import suma
 from Funciones.ing2s import ing2s
 from Funciones.resta import resta
+from Funciones.producto import producto
 
 #Bienvenida
 bienvenida()
@@ -20,3 +21,6 @@ resta()
 
 #Ingreso de dos valores string
 print("Cadenas= ",ing2s())
+
+#Operacion producto
+producto()
