@@ -1,9 +1,9 @@
 #A3G3
 
-from bienvenida import bienvenida
-from ing2i import ing2i 
-from suma import suma
-from ing2s import ing2s
+from Funciones.bienvenida import bienvenida
+from Funciones.ing2i import ing2i 
+from Funciones.suma import suma
+from Funciones.ing2s import ing2s
 
 
 bienvenida()
