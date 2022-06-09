@@ -6,6 +6,7 @@ from Funciones.suma import suma
 from Funciones.ing2s import ing2s
 from Funciones.resta import resta
 from Funciones.producto import producto
+from Funciones.cociente import cociente
 
 # Bienvenida
 bienvenida()
@@ -22,6 +23,9 @@ print("Resta = ", resta(nums[0], nums[1]))
 # Operacion producto
 print("Producto = ", producto(nums[0], nums[1]))
 
+# Operación cociente
+print("Cociente = ", cociente(nums[0], nums[1]))
+
+
 # Ingreso de dos valores string
 print("Cadenas= ", ing2s())
-
