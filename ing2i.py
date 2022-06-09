@@ -1,3 +1,4 @@
+
 #función ing2i
 
 def ing2i():
