@@ -10,6 +10,7 @@ from Funciones.cociente import cociente
 from Funciones.modulo import modulo
 from Funciones.potencia import potencia
 from Funciones.radicacion import radicacion
+from Funciones.prueba import prueba
 
 # Bienvenida
 bienvenida()
@@ -43,3 +44,5 @@ print("Cadenas= ", ing2s())
 
 # Ingreso de dos valores string ----- duplicado
 print("Cadenas= ", ing2s())
+
+prueba ()
