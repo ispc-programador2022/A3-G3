@@ -38,6 +38,5 @@ print("Potencia = ", potencia(nums[0], nums[1]))
 # Operación radicación
 print("Raiz = ", radicacion(nums[0], nums[1]))
 
-
 # Ingreso de dos valores string
 print("Cadenas= ", ing2s())
