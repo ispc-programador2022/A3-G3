@@ -41,4 +41,5 @@ print("Raiz = ", radicacion(nums[0], nums[1]))
 # Ingreso de dos valores string
 print("Cadenas= ", ing2s())
 
-.
+# Ingreso de dos valores string ----- duplicado
+print("Cadenas= ", ing2s())
