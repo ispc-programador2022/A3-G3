@@ -5,4 +5,4 @@ import random
 def aleatorios():
 
     for i in range(50):
-     print(random.randrange(1000))
+     print(random.randrange(100))
