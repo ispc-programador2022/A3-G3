@@ -62,3 +62,5 @@ print("Resultado = ", p1_3(nums[0], nums[1], nums[2]))
 
 # # Ingreso de dos valores string
 print("Cadenas= ", ing2s())
+
+
