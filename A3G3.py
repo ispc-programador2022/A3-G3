@@ -47,7 +47,10 @@ print("Potencia = ", potencia(nums[0], nums[1]))
 print("\n***Función Radicación***")
 print("Raiz = ", radicacion(nums[0], nums[1]))
 
-nums.append(int(input("\nIngrese un 3er valor entero: ")))
+
+#Ingreso del 3er número. Se agrega al final de la lista Nums
+nums.append(int(input("\nIngrese un 3er valor entero: ")))  
+print("N1=",nums[0],"  N2=", nums[1],"  N3=",nums[2])  
 
 # Producto de los dos primeros más el 3er valor
 print("\n***Producto de los dos primeros más el 3er valor***")
@@ -62,7 +65,7 @@ print("\n***Resta de los dos primeros por el 3er valor***")
 print("Resultado = ", p1_3(nums[0], nums[1], nums[2]))
 
 # # Ingreso de dos valores string
-print("Cadenas= ", ing2s())
+print("\nCadenas= ", ing2s())
 
 # retorna una lista con 50 números aleatorios.
 print("\n***Retorna una lista con 50 números aleatorios***")
