@@ -2,7 +2,7 @@
 
 import random
 
-def aleatorios():
+def genrnd():
 
     for i in range(50):
         print(random.randrange(100))

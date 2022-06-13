@@ -11,7 +11,7 @@ from Funciones.modulo import modulo
 from Funciones.potencia import potencia
 from Funciones.radicacion import radicacion
 from Funciones.p1 import p1_1, p1_2, p1_3
-from Funciones.genrnd import aleatorios
+from Funciones.genrnd import genrnd
 
 # Bienvenida
 bienvenida()
@@ -69,6 +69,6 @@ print("\nCadenas= ", ing2s())
 
 # retorna una lista con 50 números aleatorios.
 print("\n***Retorna una lista con 50 números aleatorios***")
-print(aleatorios())
+print(genrnd())
 
 
