@@ -2,7 +2,8 @@
 
 import random
 
-def genrnd():
-
-    for i in range(50):
-        print(random.randrange(100))
+def genrnd(number):
+    list_n = []
+    for i in range(number):
+        list_n.append(random.randrange(100))
+    return list_n

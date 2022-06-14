@@ -12,6 +12,7 @@ from Funciones.potencia import potencia
 from Funciones.radicacion import radicacion
 from Funciones.p1 import p1_1, p1_2, p1_3
 from Funciones.genrnd import genrnd
+from Funciones.sum_comb import sum_comb
 
 # Bienvenida
 bienvenida()
@@ -69,6 +70,10 @@ print("\nCadenas= ", ing2s())
 
 # retorna una lista con 50 números aleatorios.
 print("\n***Retorna una lista con 50 números aleatorios***")
-print(genrnd())
+list50 = genrnd(50)
+print(list50)
+
+# A partir de esta función se utilizará list50
+print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
 
 
