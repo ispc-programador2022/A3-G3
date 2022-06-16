@@ -75,5 +75,3 @@ print(list50)
 
 # A partir de esta función se utilizará list50
 print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
-
-
