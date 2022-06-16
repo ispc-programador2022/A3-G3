@@ -13,6 +13,7 @@ from Funciones.radicacion import radicacion
 from Funciones.p1 import p1_1, p1_2, p1_3
 from Funciones.genrnd import genrnd
 from Funciones.sum_comb import sum_comb
+from Funciones.prod_comb import prod_comb
 
 # Bienvenida
 bienvenida()
@@ -74,4 +75,9 @@ list50 = genrnd(50)
 print(list50)
 
 # A partir de esta función se utilizará list50
+
+# Suma de las combinaciones
 print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
+
+# Producto de las combinaciones
+print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", prod_comb(list50), sep="\n")
