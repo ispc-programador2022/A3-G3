@@ -77,7 +77,7 @@ print(list50)
 # A partir de esta función se utilizará list50
 
 # Suma de las combinaciones
-print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
+print("\n***Devuelve la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
 
 # Producto de las combinaciones
-print("\n***Devuelva la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", prod_comb(list50), sep="\n")
+print("\n***Devuelve el producto de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", prod_comb(list50), sep="\n")
