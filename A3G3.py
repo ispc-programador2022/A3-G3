@@ -14,6 +14,7 @@ from Funciones.p1 import p1_1, p1_2, p1_3
 from Funciones.genrnd import genrnd
 from Funciones.sum_comb import sum_comb
 from Funciones.prod_comb import prod_comb
+from Funciones.estadistica import mediana,rango,varianza,media
 
 # Bienvenida
 bienvenida()
@@ -77,7 +78,25 @@ print(list50)
 # A partir de esta función se utilizará list50
 
 # Suma de las combinaciones
-print("\n***Devuelve la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sum_comb(list50), sep="\n")
+print("\n***Devuelve la suma de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sep="\n")
+print("Suma de las combinaciones = ",sum_comb(list50))
 
 # Producto de las combinaciones
-print("\n***Devuelve el producto de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", prod_comb(list50), sep="\n")
+print("\n***Devuelve el producto de las combinaciones posibles de los números generados por la función genrnd tomados de a dos.***", sep="\n")
+print("Suma del producto de las combinaciones = ", prod_comb(list50))
+       
+# Media de la lista
+print("\n***Devuelve la varianza de la lista aleatorea***")
+print("Media= ",media(list50))
+
+# Mediana de la lista
+print("\n***Devuelve la mediana de la lista aleatorea***")
+print("Mediana= ",mediana(list50))
+
+# Rango de la lista
+print("\n***Devuelve el rango de la lista aleatorea***")
+print("Rango= ",rango(list50))
+
+# Varianza de la lista
+print("\n***Devuelve la varianza de la lista aleatorea***")
+print("Varianza= ",varianza(list50))
