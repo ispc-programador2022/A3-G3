@@ -14,7 +14,7 @@
 - Dardo Dario, Callado  :heavy_check_mark:
 - Eugenio Tomás, ,Cabrera :heavy_check_mark:
 - Camilo,	Sanchez :heavy_check_mark:
-- Alejandro, 	Benitez
+- Alejandro, 	Benitez :heavy_check_mark:
 - Nicolás,	Bustamante
 - Lucas,	Caminos :heavy_check_mark:
 - Luis,	Cadiz
