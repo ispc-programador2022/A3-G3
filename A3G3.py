@@ -10,6 +10,7 @@ from Funciones.cociente import cociente
 from Funciones.modulo import modulo
 from Funciones.potencia import potencia
 from Funciones.radicacion import radicacion
+from Funciones.aleatorios import listaAleatorios
 
 # Bienvenida
 bienvenida()
@@ -40,5 +41,10 @@ print("Raiz = ", radicacion(nums[0], nums[1]))
 
 # Ingreso de dos valores string
 print("Cadenas= ", ing2s())
+
+# Retorna una lista con números aleatorios
+
+print("Números aleatorios= ", listaAleatorios())
+
 
 
